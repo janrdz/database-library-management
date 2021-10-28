@@ -2,8 +2,6 @@
 
 A database to store books using the console. Here I implement what I learned on the course COMP 315 on UAGM. Code is partially open source. You will find: Single Linked List, Doubly Linked and Circular List, Binary Search Trees and so on.
 
-Books aren't gonna be saved if you close the program and run again since it doesn't have where to save the data.
-
 This program was designed with the following menu:
 
 * Add a genre
